@@ -1,4 +1,9 @@
-export default function Cadastro() {
+import React from "react"
 
-    <p>Paragrafo</p>
+export default function Cadastro() {
+    return (
+        <div>
+            <p>assa</p>
+        </div>
+    );
 };
